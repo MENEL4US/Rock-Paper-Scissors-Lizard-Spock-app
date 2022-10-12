@@ -65,7 +65,7 @@ flutter:
     - images/lizard.png
     - images/paper.png
     - images/rock.png
-    - images/scissors.png
+    - images/scissor.png
     - images/spock.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
